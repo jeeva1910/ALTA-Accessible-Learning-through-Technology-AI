@@ -1,0 +1,6 @@
+{
+  "name": "ALTA",
+  "description": "Accessible learning application with touch-based voice feedback and specialized learning mode selection.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
